@@ -19,7 +19,7 @@ genbox -cp qmmm-solvated.gro -cs spc216.gro -o qmmm-solvated.gro -shell 1.0 -p s
 make_ndx -f qmmm-solvated.gro -o ${NAME} <<<q
 
 # process all the files into something we can run with
-grompp -f nve.mdp -c qmmm-solvated.gro -p    -n ${NAME}.ndx -o ${NAME}.tpr
+grompp -f nve.mdp -c qmmm-solvated.gro -p so2.top -n ${NAME}.ndx -o ${NAME}.tpr
 
 # do the run; must specify -nt 1
 mdrun -nt 1 -v -deffnm ${NAME}

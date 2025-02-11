@@ -1,11 +1,11 @@
 #!/bin/bash
-#SBATCH -p debug
-#SBATCH -J INAQS
+#SBATCH -p action
+#SBATCH -J INAQS_SO2
 #SBATCH -o output.slurm
-#SBATCH -t 1:00:00
+#SBATCH -t 1-00:00:00
 #SBATCH -N 1
 #SBATCH --ntasks-per-node=1
-#SBATCH --mem 30GB
+#SBATCH --mem 10GB
 
 #### LOAD THESE AT COMMAND LINE ####
 # module purge

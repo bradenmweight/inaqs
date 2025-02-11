@@ -2,7 +2,7 @@
 runtype=fssh
 
 [qchem]
-basis = 3-21G
+basis = 6-31G
 exchange = B3LYP
 nthreads = 1
 buffer_states = 10

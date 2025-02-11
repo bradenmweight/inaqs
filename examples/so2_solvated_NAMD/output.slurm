@@ -1,6 +1,6 @@
                          :-)  G  R  O  M  A  C  S  (-:
 
-                          GROtesk MACabre and Sinister
+                      GROup of MAchos and Cynical Suckers
 
                             :-)  VERSION 4.6.5  (-:
 
@@ -75,7 +75,7 @@ Option       Type   Value   Description
                             Can only be done when a topology is present
 
 
-gcq#106: "I Need a Little Poison" (Throwing Muses)
+gcq#91: "Pretend That You're Hercule Poirot" (TeX)
 
 Read 3 atoms
 Volume: 1 nm^3, corresponds to roughly 400 electrons
@@ -93,7 +93,7 @@ new box angles  :  90.00  90.00  90.00 (degrees)
 new box volume  :  76.87               (nm^3)
                          :-)  G  R  O  M  A  C  S  (-:
 
-                          GROtesk MACabre and Sinister
+                      GROup of MAchos and Cynical Suckers
 
                             :-)  VERSION 4.6.5  (-:
 
@@ -178,7 +178,7 @@ Number of SOL molecules:    189
 
 Processing topology
 
-gcq#219: "Wild Pointers Couldn't Drag Me Away" (K.A. Feenstra)
+gcq#204: "I've Got Two Turntables and a Microphone" (B. Hansen)
 
 
 WARNING: Masses and atomic (Van der Waals) radii will be guessed
@@ -206,7 +206,7 @@ Potential shift: LJ r^-12: 0.000 r^-6 0.000, Coulomb 0.000
 Grid: 12 x 12 x 12 cells
                          :-)  G  R  O  M  A  C  S  (-:
 
-                               Grunge ROck MAChoS
+                  Gromacs Runs On Most of All Computer Systems
 
                             :-)  VERSION 4.6.5  (-:
 
@@ -248,7 +248,7 @@ Option       Type   Value   Description
 
 Reading structure file
 
-gcq#219: "Wild Pointers Couldn't Drag Me Away" (K.A. Feenstra)
+gcq#204: "I've Got Two Turntables and a Microphone" (B. Hansen)
 
 Going to read 0 old index file(s)
 Analysing residue names:
@@ -273,7 +273,7 @@ Analysing residues not classified as Protein/DNA/RNA/Water and splitting into gr
 > 
                          :-)  G  R  O  M  A  C  S  (-:
 
-                               Grunge ROck MAChoS
+                  Gromacs Runs On Most of All Computer Systems
 
                             :-)  VERSION 4.6.5  (-:
 
@@ -359,14 +359,14 @@ Number of degrees of freedom in T-Coupling group rest is 1140.00
 
 There were 4 notes
 
-gcq#219: "Wild Pointers Couldn't Drag Me Away" (K.A. Feenstra)
+gcq#204: "I've Got Two Turntables and a Microphone" (B. Hansen)
 
 Largest charge group radii for Van der Waals: 0.128, 0.128 nm
 Largest charge group radii for Coulomb:       0.084, 0.084 nm
 This run will generate roughly 25 Mb of data
                          :-)  G  R  O  M  A  C  S  (-:
 
-                               Grunge ROck MAChoS
+                  Gromacs Runs On Most of All Computer Systems
 
                             :-)  VERSION 4.6.5  (-:
 
@@ -510,7 +510,7 @@ QMlevel: B3LYP/3-21G
 WARNING: No config file passed to mdrun via -inaqs; attempting to find the default: inaqs_config.dat
 
 [INAQS] Begining INAQS run of type fssh
-[QM_QChem] Taking scratch path to be: /local_scratch/28222156/QCSCRATCH/INAQS_1739302801_1146588774
+[QM_QChem] Taking scratch path to be: /local_scratch/28222381/QCSCRATCH/INAQS_1739303794_615830203
 [FSSH] 0: random_seed = 1234
 [FSSH] active_state = 2
 starting mdrun 'QM in water'
@@ -519,127 +519,17 @@ starting mdrun 'QM in water'
 WARNING: Invoking double-close fix for neighbor lists
 
 Total Energy: 0
-step 0Total Energy: -547.819
-Total Energy: -547.819; Fractional drift: -0
-Total Energy: -547.819; Fractional drift: -0
-Total Energy: -547.819; Fractional drift: 8.69083e-08
-Total Energy: -547.819; Fractional drift: 8.69083e-08
-Total Energy: -547.819; Fractional drift: -0
-Total Energy: -547.819; Fractional drift: 8.69083e-08
-Total Energy: -547.819; Fractional drift: 8.69083e-08
-Total Energy: -547.819; Fractional drift: 8.69082e-08
-Total Energy: -547.819; Fractional drift: 1.73816e-07
-Total Energy: -547.818; Fractional drift: -1.21672e-06
-Total Energy: -547.818; Fractional drift: -8.69083e-08
-Total Energy: -547.818; Fractional drift: -0
-Total Energy: -547.818; Fractional drift: -0
-Total Energy: -547.818; Fractional drift: 8.69083e-08
-Total Energy: -547.818; Fractional drift: -0
-Total Energy: -547.818; Fractional drift: -0
-Total Energy: -547.818; Fractional drift: -0
-Total Energy: -547.818; Fractional drift: -0
-Total Energy: -547.818; Fractional drift: -0
-Total Energy: -547.819; Fractional drift: 1.65126e-06
-Total Energy: -547.819; Fractional drift: -0
-Total Energy: -547.819; Fractional drift: -0
-Total Energy: -547.819; Fractional drift: -0
-Total Energy: -547.819; Fractional drift: -0
-Total Energy: -547.819; Fractional drift: -0
-Total Energy: -547.819; Fractional drift: -0
-Total Energy: -547.819; Fractional drift: -0
-Total Energy: -547.819; Fractional drift: -0
-Total Energy: -547.819; Fractional drift: -8.69082e-08
-Total Energy: -547.819; Fractional drift: -1.0429e-06
-Total Energy: -547.819; Fractional drift: -8.69083e-08
-Total Energy: -547.819; Fractional drift: -0
-Total Energy: -547.819; Fractional drift: -0
-Total Energy: -547.819; Fractional drift: -0
-Total Energy: -547.819; Fractional drift: -0
-Total Energy: -547.819; Fractional drift: -0
-Total Energy: -547.819; Fractional drift: -0
-Total Energy: -547.819; Fractional drift: -0
-Total Energy: -547.819; Fractional drift: -8.69083e-08
-Total Energy: -547.818; Fractional drift: -6.95266e-07
-Total Energy: -547.818; Fractional drift: -0
-Total Energy: -547.818; Fractional drift: -0
-Total Energy: -547.818; Fractional drift: -0
-Total Energy: -547.818; Fractional drift: -0
-Total Energy: -547.818; Fractional drift: -0
-Total Energy: -547.818; Fractional drift: -0
-Total Energy: -547.818; Fractional drift: -0
-Total Energy: -547.818; Fractional drift: -0
-Total Energy: -547.818; Fractional drift: -0
-Total Energy: -547.817; Fractional drift: -1.65126e-06
-Total Energy: -547.817; Fractional drift: -0
-Total Energy: -547.817; Fractional drift: -0
-Total Energy: -547.817; Fractional drift: -0
-Total Energy: -547.817; Fractional drift: -0
-Total Energy: -547.817; Fractional drift: -0
-Total Energy: -547.817; Fractional drift: -0
-Total Energy: -547.817; Fractional drift: -0
-Total Energy: -547.817; Fractional drift: -0
-Total Energy: -547.817; Fractional drift: -0
-Total Energy: -547.818; Fractional drift: 1.47744e-06
-Total Energy: -547.818; Fractional drift: -0
-Total Energy: -547.818; Fractional drift: -0
-Total Energy: -547.818; Fractional drift: -0
-Total Energy: -547.818; Fractional drift: -0
-Total Energy: -547.818; Fractional drift: -0
-Total Energy: -547.818; Fractional drift: -0
-Total Energy: -547.818; Fractional drift: -0
-Total Energy: -547.818; Fractional drift: 8.69084e-08
-Total Energy: -547.818; Fractional drift: -0
-Total Energy: -547.818; Fractional drift: -3.47633e-07
-Total Energy: -547.818; Fractional drift: -0
-Total Energy: -547.818; Fractional drift: 6.08359e-07
-Total Energy: -547.818; Fractional drift: -4.34542e-07
-Total Energy: -547.818; Fractional drift: -8.69084e-08
-Total Energy: -547.818; Fractional drift: -0
-Total Energy: -547.818; Fractional drift: -0
-Total Energy: -547.818; Fractional drift: -8.69084e-08
-Total Energy: -547.818; Fractional drift: -0
-Total Energy: -547.818; Fractional drift: -0
-Total Energy: -547.818; Fractional drift: -3.47634e-07
-Total Energy: -547.818; Fractional drift: -0
-Total Energy: -547.818; Fractional drift: -0
-Total Energy: -547.818; Fractional drift: -0
-Total Energy: -547.818; Fractional drift: -0
-Total Energy: -547.818; Fractional drift: -0
-Total Energy: -547.818; Fractional drift: -0
-Total Energy: -547.818; Fractional drift: 8.69084e-08
-Total Energy: -547.818; Fractional drift: -0
-Total Energy: -547.818; Fractional drift: -0
-Total Energy: -547.818; Fractional drift: 3.47634e-07
-Total Energy: -547.818; Fractional drift: -0
-Total Energy: -547.818; Fractional drift: -0
-Total Energy: -547.818; Fractional drift: 8.69084e-08
-Total Energy: -547.818; Fractional drift: 4.34542e-07
-Total Energy: -547.818; Fractional drift: -5.2145e-07
-Total Energy: -547.818; Fractional drift: -0
-Total Energy: -547.818; Fractional drift: -0
-Total Energy: -547.818; Fractional drift: -8.69084e-08
-Total Energy: -547.818; Fractional drift: -0
-step 100, will finish Tue Feb 11 15:34:24 2025Total Energy: -547.818; Fractional drift: 3.47634e-07
-Total Energy: -547.818; Fractional drift: -0
-Total Energy: -547.818; Fractional drift: -0
-Total Energy: -547.818; Fractional drift: -0
-Total Energy: -547.818; Fractional drift: -0
-Total Energy: -547.818; Fractional drift: -8.69084e-08
-Total Energy: -547.818; Fractional drift: -0
-Total Energy: -547.818; Fractional drift: -0
-Total Energy: -547.818; Fractional drift: -0
-Total Energy: -547.818; Fractional drift: -0
-Total Energy: -547.819; Fractional drift: 1.73817e-06
-Total Energy: -547.819; Fractional drift: -0
-Total Energy: -547.819; Fractional drift: -0
-Total Energy: -547.819; Fractional drift: -0
-Total Energy: -547.819; Fractional drift: -0
-Total Energy: -547.819; Fractional drift: -0
-Total Energy: -547.819; Fractional drift: -0
-Total Energy: -547.819; Fractional drift: -0
-Total Energy: -547.819; Fractional drift: -0
-Total Energy: -547.819; Fractional drift: -0
-Total Energy: -547.817; Fractional drift: -2.86797e-06
-Total Energy: -547.817; Fractional drift: -0
-Total Energy: -547.817; Fractional drift: -0
-Total Energy: -547.817; Fractional drift: -0
+step 0Total Energy: -550.515
+Total Energy: -550.515; Fractional drift: -0
+Total Energy: -550.515; Fractional drift: 8.64827e-08
+Total Energy: -550.515; Fractional drift: -0
+Total Energy: -550.515; Fractional drift: 8.64827e-08
+Total Energy: -550.515; Fractional drift: 8.64827e-08
+Total Energy: -550.515; Fractional drift: -0
+Total Energy: -550.515; Fractional drift: 8.64827e-08
+Total Energy: -550.515; Fractional drift: 8.64826e-08
+Total Energy: -550.515; Fractional drift: 8.64826e-08
+Total Energy: -550.514; Fractional drift: -9.51309e-07
+Total Energy: -550.514; Fractional drift: -0
+Total Energy: -550.514; Fractional drift: -1.72965e-07
+Total Energy: -550.514; Fractional drift: -0
