@@ -1,0 +1,16 @@
+# Perform energy optimization
+
+```
+$ sbatch submit_optimization.sbatch
+```
+
+# Input Files
+```
+GROMACS.mdp      -- Functional/Basis 
+inaqs_config.dat -- Functional/Basis 
+```
+
+# Output Files
+```
+minimized.gro
+```

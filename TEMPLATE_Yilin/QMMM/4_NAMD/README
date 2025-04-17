@@ -1,0 +1,19 @@
+# Perform NAMD Dynamics
+
+```
+$ sbatch submit_NVT.sbatch
+```
+
+## Input Files
+```
+GROMACS.mdp      -- Functional/Basis , 
+inaqs_config.dat -- Functional/Basis , FSSH vs. EH (NEEDS TO BE TESTED YET)
+../3_NVT/frames/frames_with_vel*.gro
+```
+
+## Output Files
+```
+TRAJ/traj-*/
+```
+
+# Plot the Results

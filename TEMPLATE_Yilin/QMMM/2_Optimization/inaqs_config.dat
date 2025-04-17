@@ -1,0 +1,15 @@
+[inaqs]
+runtype = bomd
+
+[qchem]
+basis = 6-31G*
+exchange = B3LYP
+nthreads = 1
+
+[bomd]
+active_state = 0
+qmcode = qchem
+multiplicity = 1
+charge = 0
+excited_states = 0
+

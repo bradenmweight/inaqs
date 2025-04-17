@@ -1,0 +1,25 @@
+# Build the simulation box (without or without solvent)
+
+```
+$ bash solvated.sh
+```
+
+## Input Files
+```
+input.gro -- Geoemtry
+input.top -- MM parameters
+```
+
+## output Files
+```
+qmmm.gro
+qmmm.ndx
+```
+
+# Controlling Solvation
+solvated.sh
+```
+do_solvation=1 # 0 = no, 1 = yes
+BOX_SIZE="2.0" # nm
+```
+

@@ -1,0 +1,29 @@
+# Perform NVT Dynamics
+
+```
+$ sbatch submit_NVT.sbatch
+```
+
+## Input Files
+```
+GROMACS.mdp      -- Functional/Basis , Temperature (Both "gen_temp" and "ref_t")
+inaqs_config.dat -- Functional/Basis , nthreads
+```
+
+## Output Files
+```
+minimized.gro
+```
+
+# Extract Frames from NVT Dynamics
+
+```
+$ bash run_extract_frames.sh
+```
+
+## Input Files
+*.tpr
+*.trr
+
+## Output Files
+frames_with_vel*.gro
