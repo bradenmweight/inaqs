@@ -1,0 +1,16 @@
+[inaqs]
+runtype=fssh
+
+[qchem]
+basis = 6-31G
+exchange = B3LYP
+nthreads = 1
+buffer_states = 10
+
+[fssh]
+qmcode = qchem
+excited_states = 2
+min_state = 1
+active_state = 2 
+random_seed = 1234
+amplitude_file = cs.dat

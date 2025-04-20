@@ -14,8 +14,8 @@ mkdir TRAJ # Outer directory
 cd TRAJ
 
 NSKIP=5 # SKIP FIRST 5 FRAMES FOR EQUILIBRATION
-START=10
-STOP=200 # Included
+START=0 # How many after NSKIP to start
+STOP=10 # Included
 for (( i=$(($NSKIP + $START)); i<$(($STOP + 1)); i++ )); do
     mkdir -p traj-${i} # create directory for each frame
     cd traj-${i}
